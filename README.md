@@ -80,14 +80,22 @@ This approach avoids unsafe execution and ensures correctness.
 
 ## 📂 Project Structure
 
-python-code-bot/
+PyRunX/
+
 │
+
 ├── bot.py
+
 ├── requirements.txt
+
 ├── .env            # ignored by git
+
 ├── .gitignore
+
 ├── README.md
+
 └── venv/           # ignored by git
+
 
 ---
 
