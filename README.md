@@ -95,7 +95,7 @@ python-code-bot/
 
 1. Clone the repository:
 
-   git clone https://github.com/ChiragPatelK/python-code-bot.git
+   git clone https://github.com/ChiragPatelK/PyRunX
    cd python-code-bot
 
 2. Create a `.env` file:
